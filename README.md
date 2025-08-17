@@ -34,5 +34,5 @@ Designed with a simple and intuitive interface to make financial planning easier
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/mortgage-calculator.git
+   git clone https://github.com/KvLetsCode/mortgage-calculator.git
    cd mortgage-calculator

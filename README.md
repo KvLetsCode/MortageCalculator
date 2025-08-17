@@ -22,12 +22,11 @@ Designed with a simple and intuitive interface to make financial planning easier
 ## 📸 Screenshots  
 
 ### Dashboard View  
-![Dashboard Screenshot](./assets/dashboard.png)  
+ ![desktop-design-completed](https://github.com/user-attachments/assets/977bc4c4-ab8f-4608-ae2d-da339cad05f7)
+ 
 
-### Results View  
-![Results Screenshot](./assets/results.png)  
 
-*(Replace with actual screenshots in your `assets/` folder)*  
+
 
 ---
 
